@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "reactSnippets.settings.prettierEnabled": true,
+    "prettier.trailingComma": "all",
+    "prettier.bracketSameLine": true
+}
